@@ -105,7 +105,7 @@ Test the model and compute accuracy.
 
 Here are links to my powerbi dashboard and article.
 |PowerBi|https://app.powerbi.com/groups/me/reports/e25e66bd-0b23-416e-a73e-e175de2bab10/ReportSection?experience=power-bi
-|Article|https:
+|Article|https:https://medium.com/@maglosiper/churn-analysis-c9049702912f
 
 # Author.
 Emil Maglo and Paragon Group
